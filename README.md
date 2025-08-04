@@ -35,6 +35,9 @@ For a **15-year-old female athlete** with the following details:
 
 ---
 
+<img width="1889" height="904" alt="image" src="https://github.com/user-attachments/assets/26a0effa-659c-4c47-bfdb-e07cb3493a14" />
+
+
 ## Installation & Setup
 1. **Clone the repository:**
    ```bash
